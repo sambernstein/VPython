@@ -1,0 +1,168 @@
+####################################################################
+#                                                                  #
+#  8888888          888                     .d8888b.   .d8888b.    #
+#    888            888                    d88P  Y88b d88P  Y88b   #
+#    888            888                    888    888 Y88b.        #
+#    888   88888b.  888888 888d888 .d88b.  888         "Y888b.     #
+#    888   888 "88b 888    888P"  d88""88b 888            "Y88b.   #
+#    888   888  888 888    888    888  888 888    888       "888   #
+#    888   888  888 Y88b.  888    Y88..88P Y88b  d88P Y88b  d88P   #
+#  8888888 888  888  "Y888 888     "Y88P"   "Y8888P"   "Y8888P"    #
+#                                                                  #
+####################################################################
+#                                                                  #
+# Java Programming Environment Setup                               #
+# for Mac OS X - v3.5                                              #
+# Princeton University - Hayk Martirosyan                          #
+#                                                                  #
+####################################################################
+
+Initializing functions and beginning installation...
+
+Creating installation directory at
+/Users/samebernstein/introcs
+
+#### Step 1 - Java #################################################
+
+Java is already installed.
+
+Downloading java execution script from
+http://introcs.cs.princeton.edu/java/mac/java-introcs
+to
+/usr/local/bin/java-introcs
+
+Granting executable permission to
+/usr/local/bin/java-introcs
+
+Downloading javac execution script from
+http://introcs.cs.princeton.edu/java/mac/javac-introcs
+to
+/usr/local/bin/javac-introcs
+
+Granting executable permission to
+/usr/local/bin/javac-introcs
+
+#### Step 2 - Java3D and Java OpenGL ###############################
+
+Creating Java library directory at
+/Users/samebernstein/Library/Java
+
+Creating Java extensions directory at
+/Users/samebernstein/Library/Java/Extensions
+
+Downloading Java3D from
+http://introcs.cs.princeton.edu/java/mac/java3d.zip
+to
+/Users/samebernstein/introcs/java3d.zip
+
+Extracting zip archive in place at
+/Users/samebernstein/introcs/java3d.zip
+and deleting .zip file.
+
+Copying jni files from
+/Users/samebernstein/introcs/java3d
+to
+/Users/samebernstein/Library/Java/Extensions
+
+#### Step 3 - Textbook Libraries ##################################
+
+Downloading stdlib.jar from
+http://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
+to
+/Users/samebernstein/introcs/stdlib.jar
+
+#### Step 4 - Checkstyle ##########################################
+
+Downloading checkstyle from
+http://introcs.cs.princeton.edu/java/mac/checkstyle.zip
+to
+/Users/samebernstein/introcs/checkstyle.zip
+
+Extracting zip archive in place at
+/Users/samebernstein/introcs/checkstyle.zip
+and deleting .zip file.
+
+Downloading checkstyle configuration file from
+http://introcs.cs.princeton.edu/java/mac/checkstyle.xml
+to
+/Users/samebernstein/introcs/checkstyle-5.5/checkstyle.xml
+
+Downloading checkstyle execution script from
+http://introcs.cs.princeton.edu/java/mac/checkstyle-introcs
+to
+/usr/local/bin/checkstyle-introcs
+
+Granting executable permission to
+/usr/local/bin/checkstyle-introcs
+
+#### Step 5 - Findbugs ############################################
+
+Downloading findbugs from
+http://introcs.cs.princeton.edu/java/mac/findbugs.zip
+to
+/Users/samebernstein/introcs/findbugs.zip
+
+Extracting zip archive in place at
+/Users/samebernstein/introcs/findbugs.zip
+and deleting .zip file.
+
+Downloading findbugs configuration file from
+http://introcs.cs.princeton.edu/java/mac/findbugs.xml
+to
+/Users/samebernstein/introcs/findbugs-2.0.3/findbugs.xml
+
+Downloading findbugs execution script from
+http://introcs.cs.princeton.edu/java/mac/findbugs-introcs
+to
+/usr/local/bin/findbugs-introcs
+
+Granting executable permission to
+/usr/local/bin/findbugs-introcs
+
+#### Step 6 - DrJava ##############################################
+
+Downloading DrJava from
+http://introcs.cs.princeton.edu/java/mac/drjava-osx.tar.gz
+to
+/Applications/drjava.tar.gz
+
+Extracting DrJava into the Applications directory
+/Applications/DrJava.app
+
+Downloading DrJava configuration file from
+http://introcs.cs.princeton.edu/java/mac/drjava-config.txt
+to
+/Users/samebernstein/.drjava
+
+Replacing text in file
+/Users/samebernstein/.drjava
+from
+INSTALL_DIR
+to
+/Users/samebernstein/introcs
+
+Creating a shortcut to DrJava on the desktop...
+
+#### Step 7 - Terminal #############################################
+
+Creating a shortcut to Terminal on the desktop...
+
+#### Step 8 - Test it out! #########################################
+
+Downloading the test Java program...
+
+Installation complete! Compiling test program...
+Test program compiled. Running...
+
+If you saw the bullseye and textbook graphic, the installation
+was successful and you are ready to start programming in Java.
+Continue with the introductory tutorial on the website.
+
+NOTE: If there were any error messages during this setup, check the
+troubleshooting section on the website or ask for help.
+
+A log file of this installation is saved at
+/Users/samebernstein/introcs/log.txt
+
+You should now close this window.
+
